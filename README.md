@@ -44,7 +44,7 @@ There is a deprecation warning as below:
        SymPyDeprecationWarning(
   
   
- Open class_registry.py where located. You see the location in the warning
+ Open class_registry.py where located. You see the location in the warning. Remove the lines for warning and save.
  
  In my computer it is located at: C:\ProgramData\Anaconda3\envs\tf2\lib\site-packages\sympy\deprecated\class_registry.py
  
