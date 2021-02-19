@@ -28,6 +28,8 @@ if there is no CUDA support:
 ## install Keras
     pip install keras
 
+![alt text](/img/tf_install2.png)
+
 ## if you don't want to see deprecation warning:
 
 There is a deprecation warning as below:
