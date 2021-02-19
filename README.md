@@ -6,10 +6,10 @@ Here tf2 is an arbitrary name for our environment.
 
      conda create -n tf2 python=3.8
 
-## Activate environment.
+## Activate environment:
 
     activate tf2
-## install tensorflow - GPU enabled
+## install tensorflow - GPU enabled:
 
     pip install tensorflow-gpu
 
@@ -25,7 +25,7 @@ if there is no CUDA support:
 
     pip install pip sympy
     
-## install Keras
+## install Keras:
     pip install keras
 
 ![alt text](/img/tf_install2.png)
@@ -51,5 +51,5 @@ There is a deprecation warning as below:
  
  ![alt text](/img/deprecatewarn.png)
  
- ## Import and print
+ ## Import and print:
  ![alt text](/img/tf_keras_test.png)
