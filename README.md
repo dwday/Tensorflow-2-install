@@ -52,4 +52,4 @@ There is a deprecation warning as below:
  ![alt text](/img/deprecatewarn.png)
  
  
-  
+ ![alt text](/img/tf_keras_test.png)
