@@ -17,11 +17,13 @@ if there is no CUDA support:
     
     pip install tensorflow
 
-# install sympy (if not installed previously):
 
-    pip install pip sympy
 
 ![alt text](/img/tf_install1.png)
 
+# install sympy (if not installed previously):
 
-**pip install keras**
+    pip install pip sympy
+    
+# install Keras
+    pip install keras
