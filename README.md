@@ -51,5 +51,5 @@ There is a deprecation warning as below:
  
  ![alt text](/img/deprecatewarn.png)
  
- ## Import and print:
+ ## Import and print versions:
  ![alt text](/img/tf_keras_test.png)
