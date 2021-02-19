@@ -27,3 +27,20 @@ if there is no CUDA support:
     
 ## install Keras
     pip install keras
+
+## if you don't want to see deprecation warning:
+
+There is a deprecation warning as below:
+
+C:\ProgramData\Anaconda3\envs\tf2\lib\site-packages\sympy\deprecated\class_registry.py:33: SymPyDeprecationWarning: 
+
+C, including its class ClassRegistry, has been deprecated since SymPy
+1.0. It will be last supported in SymPy version 1.0. Use direct
+imports from the defining module instead. See
+https://github.com/sympy/sympy/issues/9371 for more info.
+
+  SymPyDeprecationWarning(
+  
+  
+  
+  
