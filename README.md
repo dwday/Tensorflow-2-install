@@ -49,5 +49,7 @@ There is a deprecation warning as below:
  In my computer it is located at: C:\ProgramData\Anaconda3\envs\tf2\lib\site-packages\sympy\deprecated\class_registry.py
  
  
+ ![alt text](/img/deprecatewarn.png)
+ 
  
   
