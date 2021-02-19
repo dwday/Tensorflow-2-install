@@ -1,15 +1,18 @@
 # Tensorflow 2 install
-How to install Tensorflow 2
 
-conda create -n tf2 python=3.8
+#Create environment:
 
+Here tf2 is an arbitrary name for our environment.
+**conda create -n tf2 python=3.8**
+
+# Activate environment.
 **activate tf2**
+# install tensorflow - GPU enabled
+**pip install tensorflow-gpu**
+
+if there is no CUDA support
 
 **pip install tensorflow**
-
-or GPU enabled version
-
-**pip install tensorflow-gpu**
 
 you may need sympy
 
