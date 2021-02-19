@@ -1,4 +1,4 @@
-# Tensorflow 2 install
+# Tensorflow 2 and Keras install
 
 #Create environment:
 
