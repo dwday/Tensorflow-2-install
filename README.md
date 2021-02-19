@@ -13,11 +13,11 @@ Here tf2 is an arbitrary name for our environment.
 
     pip install tensorflow-gpu
 
-if there is no CUDA support
+if there is no CUDA support:
     
     pip install tensorflow
 
-you may need sympy
+# install sympy (if not installed previously):
 
     pip install pip sympy
 
