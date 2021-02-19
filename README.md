@@ -51,5 +51,5 @@ There is a deprecation warning as below:
  
  ![alt text](/img/deprecatewarn.png)
  
- # Test TensorFlow and Keras
+ ## Import and print
  ![alt text](/img/tf_keras_test.png)
