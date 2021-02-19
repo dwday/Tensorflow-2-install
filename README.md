@@ -6,10 +6,10 @@ Here tf2 is an arbitrary name for our environment.
 
      conda create -n tf2 python=3.8
 
-# Activate environment.
+## Activate environment.
 
     activate tf2
-# install tensorflow - GPU enabled
+## install tensorflow - GPU enabled
 
     pip install tensorflow-gpu
 
@@ -21,9 +21,9 @@ if there is no CUDA support:
 
 ![alt text](/img/tf_install1.png)
 
-# install sympy (if not installed previously):
+## install sympy (if not installed previously):
 
     pip install pip sympy
     
-# install Keras
+## install Keras
     pip install keras
