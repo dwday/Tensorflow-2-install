@@ -53,3 +53,13 @@ There is a deprecation warning as below:
  
  ## Import and print versions:
  ![alt text](/img/tf_keras_test.png)
+ 
+ ## GPU support
+
+ ![alt text](/img/gpuinstall1.png)
+ 
+ 
+  ![alt text](/img/gpuinstall2.png)
+  
+   ![alt text](/img/checkdevices.png)
+   
