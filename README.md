@@ -56,10 +56,10 @@ There is a deprecation warning as below:
  
  ## GPU support
 
- ![alt text](/img/gpuinstall1.png)
+![alt text](/img/gpuinstall1.png)
  
  
-  ![alt text](/img/gpuinstall2.png)
+![alt text](/img/gpuinstall2.png)
   
-   ![alt text](/img/checkdevices.png)
+![alt text](/img/checkdevices.png)
    
