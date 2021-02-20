@@ -56,9 +56,10 @@ There is a deprecation warning as below:
  
  ## GPU support
 In addition you can use GPU support.Assuming you have Nvidia gpu, install:
-*Nvidia drivers
-*Cuda toolkit
-*cuDnn
+
+     Nvidia drivers
+     Cuda toolkit
+     cuDnn
 
 ![alt text](/img/gpuinstall1.png)
  
