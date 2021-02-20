@@ -66,6 +66,7 @@ In addition you can use GPU support. Assuming you have Nvidia gpu, you should in
  
 ![alt text](/img/gpuinstall2.png)
   
-  You can check if GPU is available as in the following examples:
+ Now you can check if GPU is available as in the following examples:
+ 
 ![alt text](/img/checkdevices.png)
    
