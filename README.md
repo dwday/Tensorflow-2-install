@@ -55,7 +55,7 @@ There is a deprecation warning as below:
  ![alt text](/img/tf_keras_test.png)
  
  ## GPU support
-In addition you can use GPU support.Assuming you have Nvidia gpu, install:
+In addition you can use GPU support. Assuming you have Nvidia gpu, you should install:
 
      Nvidia drivers
      Cuda toolkit
@@ -66,5 +66,6 @@ In addition you can use GPU support.Assuming you have Nvidia gpu, install:
  
 ![alt text](/img/gpuinstall2.png)
   
+  You can check if GPU is available as in the following examples:
 ![alt text](/img/checkdevices.png)
    
